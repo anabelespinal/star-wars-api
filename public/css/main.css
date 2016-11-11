@@ -1,0 +1,31 @@
+.total{
+	display: inline-block;
+	background-color: black;
+	padding: 10px;
+	color: #ffc107; 
+}
+.none{
+	display: none;
+}
+.inline{
+	display: inline-block;
+}
+.about{
+	cursor: pointer;
+}
+#next, #previous{
+	margin-left: 1em;
+}
+#next:hover, #previous:hover{
+	background-color: #EAC019 !important;
+}
+#next:hover i, #previous:hover i {
+	color: black !important;
+}
+
+select{
+	display: block;
+}
+section:nth-child(2){
+	margin-bottom: 5em !important;
+}

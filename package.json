@@ -1,0 +1,21 @@
+{
+  "name": "star-wars-api",
+  "version": "1.0.0",
+  "description": "api de stars wars",
+  "main": "server.js",
+  "scripts": {
+    "test": "star-wars api js\u001b[D\u001b[D"
+  },
+  "keywords": [
+    "star-wars"
+  ],
+  "author": "anabel espinal cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "repository": { 
+  "type": "git",
+  "url": "https://github.com/anabelespinal/star-wars-api"
+  }
+}
